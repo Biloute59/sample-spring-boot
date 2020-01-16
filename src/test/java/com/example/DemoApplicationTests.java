@@ -12,5 +12,12 @@ public class DemoApplicationTests {
 	@Test
 	public void contextLoads() {
 	}
+        @Ignore
+        @Test
+        public void contextLoads() {
+        }
+        @Test
+        public void contextLoads() {
+        }
 
 }
