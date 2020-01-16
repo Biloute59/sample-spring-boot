@@ -14,10 +14,10 @@ public class DemoApplicationTests {
 	}
         @Ignore
         @Test
-        public void contextLoads() {
+        public void contextLoads2() {
         }
         @Test
-        public void contextLoads() {
+        public void contextLoads3() {
         }
 
 }
